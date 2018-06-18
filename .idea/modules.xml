@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tictactoe.iml" filepath="$PROJECT_DIR$/tictactoe.iml" />
+      <module fileurl="file://C:\Users\opilane\AndroidStudioProjects\tictactoeoige\tictactoe.iml" filepath="C:\Users\opilane\AndroidStudioProjects\tictactoeoige\tictactoe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tictactoeoige.iml" filepath="$PROJECT_DIR$/tictactoeoige.iml" />
     </modules>
   </component>
 </project>
